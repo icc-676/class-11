@@ -5,7 +5,6 @@ import retrofit2.Call
 import retrofit2.http.GET
 
 interface GifAPI {
-
     @GET("gifs/random")
     fun getRandomGif(): Call<GIFResponse>
 }

@@ -1,6 +1,5 @@
 package com.abs.clase11.networking
 
-import com.abs.clase11.utils.API_KEY
 import com.abs.clase11.utils.BASE_URL
 import okhttp3.Interceptor
 import okhttp3.OkHttpClient

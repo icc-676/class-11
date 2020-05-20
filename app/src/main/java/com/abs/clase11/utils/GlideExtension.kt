@@ -14,3 +14,4 @@ fun ImageView.loadGif(uri: String?) {
         .load(uri)
         .into(this)
 }
+

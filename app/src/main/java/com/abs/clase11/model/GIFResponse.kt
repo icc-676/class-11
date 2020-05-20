@@ -1,4 +1,5 @@
 package com.abs.clase11.model
+
 import com.google.gson.annotations.SerializedName
 
 data class GIFResponse(val data: GIFObject, val meta: MetaObject)
